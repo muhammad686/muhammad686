@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **tahamuhammadi870@gmail.com**
 
-- ⚡ Fun fact **I love**
+- ⚡ Fun fact **I love fun**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
