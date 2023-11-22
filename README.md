@@ -72,7 +72,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<table>
+<table width="100">
   <tr>
     <td>
       <a href="https://developer.android.com" target="_blank" rel="noreferrer">
