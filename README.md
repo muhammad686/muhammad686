@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Taha</h1>
-<h3 align="center">Web Developer | AI |Machine Learning & Deep Learning</h3>
+<h3 align="center">I am a Computer Science graduate from QAU Islamabad, I am a Passionate Web Developer and a Data Science Enthusiast </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad686&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad686" /> </p>
 
@@ -7,21 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/@mtm_686" target="blank"><img src="https://img.shields.io/twitter/follow/@mtm_686?logo=twitter&style=for-the-badge" alt="@mtm_686" /></a> </p>
 
-- 🔭 I’m currently working on **Deep Learning Projects**
 
 - 🌱 I’m currently learning **MERN stack and Deep Learning**
 
-- 👯 I’m looking to collaborate on **Deep Learning Projects**
+- 👯 I’m looking to collaborate on **[YouTube](https://www.youtube.com/@mtcodes)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/muhammad686/muhammad686](https://github.com/muhammad686/muhammad686)
 
-- 📝 I write articles on [https://medium.com/@mtm686](https://medium.com/@mtm686)
-
-- 💬 Ask me about **Machine learning and Python**
-
-- 📫 How to reach me **tahamuhammadi870@gmail.com**
-
-- ⚡ Fun fact **I love**
+- ⚡ Fun fact **I love coding, just a joke**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
