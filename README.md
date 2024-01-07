@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Taha</h1>
 <h2 align="center">BS CS | QAU'23 |Full stack Web Developer</h2>
-<h3 align="center">I'm an Undergraduate BS Computer Science student from Quaid-i-Azam University, Islamabad. My professional skills include Web development and I'm also interested in Machine Learning.</h3>
+<h3 align="center">I'm an Undergraduate BS Computer Science student from Quaid-i-Azam University, Islamabad. My professional skills include Full stack Web development and Machine Learning.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mtm_686&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad686" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=muhammad686&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad686" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=muhammad686&theme=onedark" alt="muhammad686" /></a> </p>
 
