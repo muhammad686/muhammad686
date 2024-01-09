@@ -170,4 +170,5 @@
 
 <p align="center"><img width="80%" align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad686&show_icons=true&theme=synthwave" alt="muhammad686" /></p>
 
-<p align="center"><img width="90%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad686&theme=synthwave" alt="muhammad686" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=muhammad686&theme=dark)](https://git.io/streak-stats)
+
